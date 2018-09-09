@@ -15,7 +15,9 @@ h1 {
 
 ul {
 
-
+	font-family: helvetica;
+	text-align: left;
+	font-size: 20px;
 	margin: 60px 0px;
 
 }
@@ -84,6 +86,15 @@ nav > div > a:hover {
 	color: black;
 	cursor: pointer;
 	
+
+}
+
+a:hover {
+
+	background-color: silver;
+	color: black;
+	cursor: pointer;
+
 
 }
 
