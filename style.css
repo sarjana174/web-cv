@@ -30,8 +30,18 @@ nav > div {
 	color: white;
 	background-color: black;
 	font-size: 36px;
+	font-family: helvetica;
 	margin: 5px;
 	padding: 5px;
 	border-radius: 5%
+}
+
+nav > div > a:hover {
+
+	background-color: silver;
+	color: black;
+	cursor: pointer;
+	
+
 }
 
