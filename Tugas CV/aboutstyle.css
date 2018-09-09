@@ -7,13 +7,24 @@
 	
 }
 
+h1 {
 
+
+	font-family: helvetica;
+}
+
+ul {
+
+
+	margin: 60px 0px;
+
+}
 
 li {
 
 
 
-	text-align: left; margin: 10px 10px;
+	text-align: left; margin: 20px 7px;
 	font-family: helvetica;
 	font-size: 20px;
 }
