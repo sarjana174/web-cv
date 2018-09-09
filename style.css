@@ -1,0 +1,37 @@
+.title {
+
+	color: white;
+	text-align: center;
+	font-family: helvetica;
+	font-size: 64px;
+	
+}
+
+
+body {
+
+
+	background-color: black;
+}
+
+nav {
+
+	display: flex;
+	background-color: silver;
+	justify-content: center;
+
+
+
+}
+
+nav > div {
+
+
+	color: white;
+	background-color: black;
+	font-size: 36px;
+	margin: 5px;
+	padding: 5px;
+	border-radius: 5%
+}
+
